@@ -140,9 +140,7 @@ def build_verso_html(country: dict, images_base: str) -> str:
 
     items = []
 
-    loc_text = build_localizacao_text(country.get("localizacao"))
-    if loc_text:
-        items.append(f'<div class="detail-item"><span class="label">Continente:</span> {html_escape(loc_text)}</div>')
+    
 
     idioma = country.get("idioma")
     if idioma:
@@ -156,9 +154,13 @@ def build_verso_html(country: dict, images_base: str) -> str:
     if nome_oficial and nome_oficial != country.get("nome"):
         items.append(f'<div class="detail-item"><span class="label">Nome Oficial:</span> {html_escape(str(nome_oficial).upper())}</div>')
 
-    forma_governo = country.get("forma_de_governo")
-    if forma_governo:
-        items.append(f'<div class="detail-item"><span class="label">Forma de Governo:</span> {html_escape(str(forma_governo).upper())}</div>')
+    loc_text = build_localizacao_text(country.get("localizacao"))
+    if loc_text:
+        items.append(f'<div class="detail-item"><span class="label">Continente:</span> {html_escape(loc_text)}</div>')
+
+    #forma_governo = country.get("forma_de_governo")
+    #if forma_governo:
+    #    items.append(f'<div class="detail-item"><span class="label">Forma de Governo:</span> {html_escape(str(forma_governo).upper())}</div>')
 
     area = country.get("area")
     if area not in (None, ""):
@@ -174,9 +176,9 @@ def build_verso_html(country: dict, images_base: str) -> str:
         rank_html = f'<span class="rank">{rank_pop}º</span>' if rank_pop else ""
         items.append(f'<div class="detail-item"><span class="label">População:</span> {pop_fmt}{rank_html}</div>')
 
-    ano = country.get("ano_independencia_fundacao")
-    if ano:
-        items.append(f'<div class="detail-item"><span class="label">Ano independência/fundação:</span> {html_escape(ano)}</div>')
+    #ano = country.get("ano_independencia_fundacao")
+    #if ano:
+    #    items.append(f'<div class="detail-item"><span class="label">Ano independência/fundação:</span> {html_escape(ano)}</div>')
 
     details_html = "\n                ".join(items)
 

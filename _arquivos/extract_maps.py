@@ -27,7 +27,8 @@ from lxml import etree
 # ── configuração ─────────────────────────────────────────────────────────────
 
 BASE_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas")
+#OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas")
+OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas_3")
 
 SCRIPT_JS_URL = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/js/script.js"
 SVG_URL       = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/paises_mundo.svg"
@@ -37,7 +38,7 @@ PNG_H =  750
 
 # Fator de zoom: quanto maior, mais perto; quanto menor, mais continente ao redor
 # 1.0 = zoom original do IBGE | 0.6 = 40% afastado | 0.4 = 60% afastado
-ZOOM_FACTOR = 1.0
+ZOOM_FACTOR = 3
 
 # Fallback de matrix por continente (quando o país não tem matrix própria)
 MATRIX_FALLBACK = {
