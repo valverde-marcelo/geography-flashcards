@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartão Info Brasil - Layout HTML</title>
+    <style>
+        /* Estilos Globais e Reset */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Courier New', Courier, monospace;
+            /* Fonte mono-espaçada como no original */
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+            /* Fundo cinza claro para destacar o cartão */
+        }
+
+        /* Div Principal do Cartão (Dimenções Padrão de Cartão de Crédito) */
+        .credit-card {
+            width: 85.6mm;
+            height: 53.98mm;
+            background-image: url('images/_flags.jpg');
+            /* Sua imagem de fundo com as bandeiras */
+            background-size: cover;
+            background-position: center;
+            border-radius: 5mm;
+            /* Cantos arredondados padrão */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            /* Sombra para dar profundidade */
+            padding: 10px;
+            /* Cria a borda visível da imagem de fundo */
+            position: relative;
+            /* Para posicionamento absoluto dos elementos internos */
+            overflow: hidden;
+            /* Garante que nada saia do cartão */
+        }
+
+        /* Div Central Branca */
+        .card-content {
+            width: 100%;
+            height: 100%;
+            background-color: white;
+            border-radius: 3mm;
+            /* Cantos arredondados internos menores */
+            padding: 5px 10px;
+            /* Padding interno */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            /* Espaçamento entre os elementos */
+        }
+
+        /* Imagem de Fundo Secundária (Mapa do Mundo) */
+        .world-map-bg {
+            position: absolute;
+            top: 10px;
+            /* Ajuste para não cobrir o texto superior */
+            right: 10px;
+            width: 60%;
+            /* Tamanho do mapa */
+            border-radius: 10px;
+            /* Cantos arredondados padrão */
+            opacity: 0.5;
+            /* Opacidade baixa para não atrapalhar o texto */
+            z-index: 1;
+            /* Acima do fundo principal, abaixo do texto */
+            /* Aplica o degradê de transparência na borda esquerda e inferior */
+            -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%),
+                linear-gradient(to top, transparent 0%, black 20%);
+            mask-image: linear-gradient(to right, transparent 0%, black 20%),
+                linear-gradient(to top, transparent 0%, black 20%);
+
+            /* Garante que os dois gradientes se combinem corretamente */
+            -webkit-mask-composite: source-in;
+            mask-composite: intersect;
+        }
+
+        /* Área de Texto Superior (Centralizada) */
+        .header-text {
+            text-align: center;
+            z-index: 2;
+            /* Acima do mapa */
+            margin-bottom: 5px;
+        }
+
+        .country-name {
+            font-size: 0.7cm;
+            font-weight: bold;
+            color: #d9534f;
+            /* Cor vermelha para o nome do país */
+            text-transform: uppercase;
+        }
+
+        .capital-name {
+            font-size: 0.3cm;
+            color: #333;
+        }
+
+        /* Área de Informações Detalhadas (Alinhada à Esquerda) */
+        .details-text {
+            text-align: left;
+            z-index: 2;
+            /* Acima do mapa */
+            font-size: 0.2cm;
+            line-height: 1.4;
+        }
+
+        .detail-item {
+            margin-bottom: 3px;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+
+        .rank {
+            font-size: 0.2cm;
+            font-weight: bold;
+            color: white;
+            margin-left: 5px;
+            background: red;
+            padding: 1px;
+            border-radius: 3px;
+        }
+
+        .bandeira {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Rodapé com a Marca d'Água */
+        .footer-text {
+            text-align: center;
+            font-size: 0.7rem;
+            color: #777;
+            margin-top: auto;
+            /* Empurra para o fundo */
+            z-index: 2;
+            /* Acima de tudo */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="credit-card">
+        <img src="images/br.png" alt="Bandeira do País" class="bandeira">
+    </div>
+    <div class="credit-card verso">
+
+        <img src="images/mapas/brasil.png" alt="World Map" class="world-map-bg">
+
+        <div class="card-content">
+
+            <div class="header-text">
+                <div class="country-name">BRASIL</div>
+                <div class="capital-name">Brasília</div>
+            </div>
+
+            <div class="details-text">
+                <div class="detail-item"><span class="label">Continente:</span> AMÉRICA (AMÉRICA DO SUL)</div>
+                <div class="detail-item"><span class="label">Idioma:</span> PORTUGUÊS</div>
+                <div class="detail-item"><span class="label">Moeda:</span> REAL</div>
+                <div class="detail-item"><span class="label">Nome Oficial:</span> REPÚBLICA FEDERATIVA DO BRASIL</div>
+                <div class="detail-item"><span class="label">Forma de Governo:</span> REPÚBLICA PRESIDENCIALISTA FEDERAL
+                </div>
+                <div class="detail-item"><span class="label">Território:</span> 8.515.767 km²<span
+                        class="rank">4º</span></div>
+                <div class="detail-item"><span class="label">População:</span> 200.000.000<span class="rank">5º</span>
+                </div>
+                <div class="detail-item"><span class="label">Ano independência/fundação:</span> 1822</div>
+            </div>
+
+            <div class="footer-text">
+                @valverdeofficial
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

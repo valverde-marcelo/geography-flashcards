@@ -12,11 +12,7 @@
         "ano_independencia_fundacao": "1986",
         "codigo_iso": "aw",
         "arquivo_bandeira": "aw.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Afeganistão",
@@ -34,11 +30,7 @@
         "ano_independencia_fundacao": "1709",
         "codigo_iso": "af",
         "arquivo_bandeira": "af.png",
-        "onu": true,
-        "populacao": 41454761,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 33,
-        "colocacao_area": 40
+        "onu": true
     },
     {
         "nome": "Angola",
@@ -57,11 +49,7 @@
         "ano_independencia_fundacao": "1992",
         "codigo_iso": "ao",
         "arquivo_bandeira": "ao.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 22
+        "onu": true
     },
     {
         "nome": "Anguilla",
@@ -76,11 +64,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "ai",
         "arquivo_bandeira": "ai.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Alândia",
@@ -95,11 +79,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "ax",
         "arquivo_bandeira": "ax.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Albânia",
@@ -117,11 +97,7 @@
         "ano_independencia_fundacao": "1912",
         "codigo_iso": "al",
         "arquivo_bandeira": "al.png",
-        "onu": true,
-        "populacao": 2745972,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 127,
-        "colocacao_area": 140
+        "onu": true
     },
     {
         "nome": "Andorra",
@@ -139,11 +115,7 @@
         "ano_independencia_fundacao": "1278",
         "codigo_iso": "ad",
         "arquivo_bandeira": "ad.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 178
+        "onu": true
     },
     {
         "nome": "Emirados Árabes Unidos",
@@ -161,11 +133,7 @@
         "ano_independencia_fundacao": "1971",
         "codigo_iso": "ae",
         "arquivo_bandeira": "ae.png",
-        "onu": true,
-        "populacao": 10483751,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 84,
-        "colocacao_area": 113
+        "onu": true
     },
     {
         "nome": "Argentina",
@@ -184,11 +152,7 @@
         "ano_independencia_fundacao": "1816",
         "codigo_iso": "ar",
         "arquivo_bandeira": "ar.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 8
+        "onu": true
     },
     {
         "nome": "Armênia",
@@ -206,11 +170,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "am",
         "arquivo_bandeira": "am.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 138
+        "onu": true
     },
     {
         "nome": "Samoa Americana",
@@ -225,11 +185,7 @@
         "ano_independencia_fundacao": "1899",
         "codigo_iso": "as",
         "arquivo_bandeira": "as.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Antártida",
@@ -244,11 +200,7 @@
         "ano_independencia_fundacao": "1961",
         "codigo_iso": "aq",
         "arquivo_bandeira": "aq.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Terras Austrais e Antárticas Francesas",
@@ -263,11 +215,7 @@
         "ano_independencia_fundacao": "1955",
         "codigo_iso": "tf",
         "arquivo_bandeira": "tf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Antígua e Barbuda",
@@ -286,11 +234,7 @@
         "ano_independencia_fundacao": "1981",
         "codigo_iso": "ag",
         "arquivo_bandeira": "ag.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 181
+        "onu": true
     },
     {
         "nome": "Austrália",
@@ -308,11 +252,7 @@
         "ano_independencia_fundacao": "1901",
         "codigo_iso": "au",
         "arquivo_bandeira": "au.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 6
+        "onu": true
     },
     {
         "nome": "Áustria",
@@ -330,11 +270,7 @@
         "ano_independencia_fundacao": "1918",
         "codigo_iso": "at",
         "arquivo_bandeira": "at.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 112
+        "onu": true
     },
     {
         "nome": "Azerbaijão",
@@ -352,11 +288,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "az",
         "arquivo_bandeira": "az.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 111
+        "onu": true
     },
     {
         "nome": "Burundi",
@@ -375,11 +307,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "bi",
         "arquivo_bandeira": "bi.png",
-        "onu": true,
-        "populacao": 13689450,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 72,
-        "colocacao_area": 142
+        "onu": true
     },
     {
         "nome": "Bélgica",
@@ -397,11 +325,7 @@
         "ano_independencia_fundacao": "1830",
         "codigo_iso": "be",
         "arquivo_bandeira": "be.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 136
+        "onu": true
     },
     {
         "nome": "Benin",
@@ -420,11 +344,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "bj",
         "arquivo_bandeira": "bj.png",
-        "onu": true,
-        "populacao": 14111034,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 70,
-        "colocacao_area": 100
+        "onu": true
     },
     {
         "nome": "Burkina Faso",
@@ -443,11 +363,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "bf",
         "arquivo_bandeira": "bf.png",
-        "onu": true,
-        "populacao": 23025776,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 54,
-        "colocacao_area": 74
+        "onu": true
     },
     {
         "nome": "Bangladesh",
@@ -465,11 +381,7 @@
         "ano_independencia_fundacao": "1971",
         "codigo_iso": "bd",
         "arquivo_bandeira": "bd.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 92
+        "onu": true
     },
     {
         "nome": "Bulgária",
@@ -487,11 +399,7 @@
         "ano_independencia_fundacao": "1878",
         "codigo_iso": "bg",
         "arquivo_bandeira": "bg.png",
-        "onu": true,
-        "populacao": 6446596,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 100,
-        "colocacao_area": 103
+        "onu": true
     },
     {
         "nome": "Barein",
@@ -509,11 +417,7 @@
         "ano_independencia_fundacao": "1971",
         "codigo_iso": "bh",
         "arquivo_bandeira": "bh.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 172
+        "onu": true
     },
     {
         "nome": "Bahamas",
@@ -532,11 +436,7 @@
         "ano_independencia_fundacao": "1973",
         "codigo_iso": "bs",
         "arquivo_bandeira": "bs.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 155
+        "onu": true
     },
     {
         "nome": "Bósnia e Herzegovina",
@@ -554,11 +454,7 @@
         "ano_independencia_fundacao": "1992",
         "codigo_iso": "ba",
         "arquivo_bandeira": "ba.png",
-        "onu": true,
-        "populacao": 3185073,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 123,
-        "colocacao_area": 125
+        "onu": true
     },
     {
         "nome": "São Bartolomeu",
@@ -573,11 +469,7 @@
         "ano_independencia_fundacao": "2007",
         "codigo_iso": "bl",
         "arquivo_bandeira": "bl.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Santa Helena, Ascensão e Tristão da Cunha",
@@ -592,11 +484,7 @@
         "ano_independencia_fundacao": "1833",
         "codigo_iso": "sh",
         "arquivo_bandeira": "sh.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Belarus",
@@ -614,11 +502,7 @@
         "ano_independencia_fundacao": "0882",
         "codigo_iso": "by",
         "arquivo_bandeira": "by.png",
-        "onu": true,
-        "populacao": 9178298,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 91,
-        "colocacao_area": 84
+        "onu": true
     },
     {
         "nome": "Belize",
@@ -637,11 +521,7 @@
         "ano_independencia_fundacao": "1981",
         "codigo_iso": "bz",
         "arquivo_bandeira": "bz.png",
-        "onu": true,
-        "populacao": 411106,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 158,
-        "colocacao_area": 147
+        "onu": true
     },
     {
         "nome": "Bermudas",
@@ -656,11 +536,7 @@
         "ano_independencia_fundacao": "1612",
         "codigo_iso": "bm",
         "arquivo_bandeira": "bm.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Bolívia",
@@ -679,11 +555,7 @@
         "ano_independencia_fundacao": "1825",
         "codigo_iso": "bo",
         "arquivo_bandeira": "bo.png",
-        "onu": true,
-        "populacao": 12244159,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 73,
-        "colocacao_area": 27
+        "onu": true
     },
     {
         "nome": "Países Baixos Caribenhos",
@@ -698,11 +570,7 @@
         "ano_independencia_fundacao": "2010",
         "codigo_iso": "bq",
         "arquivo_bandeira": "bq.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Brasil",
@@ -721,11 +589,7 @@
         "ano_independencia_fundacao": "1822",
         "codigo_iso": "br",
         "arquivo_bandeira": "br.png",
-        "onu": true,
-        "populacao": 211140729,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 7,
-        "colocacao_area": 5
+        "onu": true
     },
     {
         "nome": "Barbados",
@@ -744,11 +608,7 @@
         "ano_independencia_fundacao": "1966",
         "codigo_iso": "bb",
         "arquivo_bandeira": "bb.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 182
+        "onu": true
     },
     {
         "nome": "Brunei",
@@ -766,11 +626,7 @@
         "ano_independencia_fundacao": "1368",
         "codigo_iso": "bn",
         "arquivo_bandeira": "bn.png",
-        "onu": true,
-        "populacao": 458949,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 157,
-        "colocacao_area": 163
+        "onu": true
     },
     {
         "nome": "Butão",
@@ -788,11 +644,7 @@
         "ano_independencia_fundacao": "1949",
         "codigo_iso": "bt",
         "arquivo_bandeira": "bt.png",
-        "onu": true,
-        "populacao": 786385,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 150,
-        "colocacao_area": 133
+        "onu": true
     },
     {
         "nome": "Ilha Bouvet",
@@ -807,11 +659,7 @@
         "ano_independencia_fundacao": "1928",
         "codigo_iso": "bv",
         "arquivo_bandeira": "bv.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Botsuana",
@@ -830,11 +678,7 @@
         "ano_independencia_fundacao": "1966",
         "codigo_iso": "bw",
         "arquivo_bandeira": "bw.png",
-        "onu": true,
-        "populacao": 2480244,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 131,
-        "colocacao_area": 47
+        "onu": true
     },
     {
         "nome": "República Centro-Africana",
@@ -853,11 +697,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "cf",
         "arquivo_bandeira": "cf.png",
-        "onu": true,
-        "populacao": 5152421,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 112,
-        "colocacao_area": 44
+        "onu": true
     },
     {
         "nome": "Canadá",
@@ -875,11 +715,7 @@
         "ano_independencia_fundacao": "1867",
         "codigo_iso": "ca",
         "arquivo_bandeira": "ca.png",
-        "onu": true,
-        "populacao": 40097761,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 34,
-        "colocacao_area": 2
+        "onu": true
     },
     {
         "nome": "Ilhas Cocos (Keeling)",
@@ -894,11 +730,7 @@
         "ano_independencia_fundacao": "1955",
         "codigo_iso": "cc",
         "arquivo_bandeira": "cc.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Suíça",
@@ -916,11 +748,7 @@
         "ano_independencia_fundacao": "1848",
         "codigo_iso": "ch",
         "arquivo_bandeira": "ch.png",
-        "onu": true,
-        "populacao": 8888093,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 92,
-        "colocacao_area": 132
+        "onu": true
     },
     {
         "nome": "Chile",
@@ -939,11 +767,7 @@
         "ano_independencia_fundacao": "1810",
         "codigo_iso": "cl",
         "arquivo_bandeira": "cl.png",
-        "onu": true,
-        "populacao": 19658835,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 59,
-        "colocacao_area": 37
+        "onu": true
     },
     {
         "nome": "China",
@@ -961,11 +785,7 @@
         "ano_independencia_fundacao": "1949",
         "codigo_iso": "cn",
         "arquivo_bandeira": "cn.png",
-        "onu": true,
-        "populacao": 1410710000,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 2,
-        "colocacao_area": 4
+        "onu": true
     },
     {
         "nome": "Costa do Marfim",
@@ -984,11 +804,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "ci",
         "arquivo_bandeira": "ci.png",
-        "onu": true,
-        "populacao": 31165654,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 46,
-        "colocacao_area": 68
+        "onu": true
     },
     {
         "nome": "Camarões",
@@ -1007,11 +823,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "cm",
         "arquivo_bandeira": "cm.png",
-        "onu": true,
-        "populacao": 28372687,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 48,
-        "colocacao_area": 53
+        "onu": true
     },
     {
         "nome": "República Democrática do Congo",
@@ -1030,11 +842,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "cd",
         "arquivo_bandeira": "cd.png",
-        "onu": true,
-        "populacao": 105789731,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 14,
-        "colocacao_area": 11
+        "onu": true
     },
     {
         "nome": "República do Congo",
@@ -1053,11 +861,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "cg",
         "arquivo_bandeira": "cg.png",
-        "onu": true,
-        "populacao": 6182885,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 102,
-        "colocacao_area": 63
+        "onu": true
     },
     {
         "nome": "Ilhas Cook",
@@ -1072,11 +876,7 @@
         "ano_independencia_fundacao": "1965",
         "codigo_iso": "ck",
         "arquivo_bandeira": "ck.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Colômbia",
@@ -1095,11 +895,7 @@
         "ano_independencia_fundacao": "1810",
         "codigo_iso": "co",
         "arquivo_bandeira": "co.png",
-        "onu": true,
-        "populacao": 52321152,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 27,
-        "colocacao_area": 25
+        "onu": true
     },
     {
         "nome": "Comores",
@@ -1118,11 +914,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "km",
         "arquivo_bandeira": "km.png",
-        "onu": true,
-        "populacao": 850387,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 147,
-        "colocacao_area": 168
+        "onu": true
     },
     {
         "nome": "Cabo Verde",
@@ -1141,11 +933,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "cv",
         "arquivo_bandeira": "cv.png",
-        "onu": true,
-        "populacao": 522331,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 156,
-        "colocacao_area": 165
+        "onu": true
     },
     {
         "nome": "Costa Rica",
@@ -1164,11 +952,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "cr",
         "arquivo_bandeira": "cr.png",
-        "onu": true,
-        "populacao": 5105525,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 113,
-        "colocacao_area": 126
+        "onu": true
     },
     {
         "nome": "Cuba",
@@ -1187,11 +971,7 @@
         "ano_independencia_fundacao": "1898",
         "codigo_iso": "cu",
         "arquivo_bandeira": "cu.png",
-        "onu": true,
-        "populacao": 11019931,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 79,
-        "colocacao_area": 104
+        "onu": true
     },
     {
         "nome": "Ilha de Curaçao",
@@ -1206,11 +986,7 @@
         "ano_independencia_fundacao": "1954",
         "codigo_iso": "cw",
         "arquivo_bandeira": "cw.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilha do Natal",
@@ -1225,11 +1001,7 @@
         "ano_independencia_fundacao": "1958",
         "codigo_iso": "cx",
         "arquivo_bandeira": "cx.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilhas Cayman",
@@ -1244,11 +1016,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "ky",
         "arquivo_bandeira": "ky.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Chipre",
@@ -1266,11 +1034,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "cy",
         "arquivo_bandeira": "cy.png",
-        "onu": true,
-        "populacao": 1344976,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 142,
-        "colocacao_area": 162
+        "onu": true
     },
     {
         "nome": "República Tcheca",
@@ -1288,11 +1052,7 @@
         "ano_independencia_fundacao": "1993",
         "codigo_iso": "cz",
         "arquivo_bandeira": "cz.png",
-        "onu": true,
-        "populacao": 10864042,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 80,
-        "colocacao_area": 114
+        "onu": true
     },
     {
         "nome": "Alemanha",
@@ -1310,11 +1070,7 @@
         "ano_independencia_fundacao": "1949",
         "codigo_iso": "de",
         "arquivo_bandeira": "de.png",
-        "onu": true,
-        "populacao": 83280000,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 18,
-        "colocacao_area": 62
+        "onu": true
     },
     {
         "nome": "Djibouti",
@@ -1333,11 +1089,7 @@
         "ano_independencia_fundacao": "1977",
         "codigo_iso": "dj",
         "arquivo_bandeira": "dj.png",
-        "onu": true,
-        "populacao": 1152944,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 145,
-        "colocacao_area": 146
+        "onu": true
     },
     {
         "nome": "Dominica",
@@ -1356,11 +1108,7 @@
         "ano_independencia_fundacao": "1978",
         "codigo_iso": "dm",
         "arquivo_bandeira": "dm.png",
-        "onu": true,
-        "populacao": 66510,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 170,
-        "colocacao_area": 173
+        "onu": true
     },
     {
         "nome": "Dinamarca",
@@ -1378,11 +1126,7 @@
         "ano_independencia_fundacao": "0800",
         "codigo_iso": "dk",
         "arquivo_bandeira": "dk.png",
-        "onu": true,
-        "populacao": 5946952,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 103,
-        "colocacao_area": 130
+        "onu": true
     },
     {
         "nome": "República Dominicana",
@@ -1401,11 +1145,7 @@
         "ano_independencia_fundacao": "1844",
         "codigo_iso": "do",
         "arquivo_bandeira": "do.png",
-        "onu": true,
-        "populacao": 11331265,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 78,
-        "colocacao_area": 128
+        "onu": true
     },
     {
         "nome": "Argélia",
@@ -1423,11 +1163,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "dz",
         "arquivo_bandeira": "dz.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 10
+        "onu": true
     },
     {
         "nome": "Equador",
@@ -1446,11 +1182,7 @@
         "ano_independencia_fundacao": "1840",
         "codigo_iso": "ec",
         "arquivo_bandeira": "ec.png",
-        "onu": true,
-        "populacao": 17980083,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 65,
-        "colocacao_area": 73
+        "onu": true
     },
     {
         "nome": "Egito",
@@ -1468,11 +1200,7 @@
         "ano_independencia_fundacao": "1922",
         "codigo_iso": "eg",
         "arquivo_bandeira": "eg.png",
-        "onu": true,
-        "populacao": 114535772,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 13,
-        "colocacao_area": 29
+        "onu": true
     },
     {
         "nome": "Eritreia",
@@ -1491,11 +1219,7 @@
         "ano_independencia_fundacao": "1993",
         "codigo_iso": "er",
         "arquivo_bandeira": "er.png",
-        "onu": true,
-        "populacao": 3470390,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 121,
-        "colocacao_area": 99
+        "onu": true
     },
     {
         "nome": "Saara Ocidental",
@@ -1510,11 +1234,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "eh",
         "arquivo_bandeira": "eh.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Espanha",
@@ -1532,11 +1252,7 @@
         "ano_independencia_fundacao": "1516",
         "codigo_iso": "es",
         "arquivo_bandeira": "es.png",
-        "onu": true,
-        "populacao": 48347910,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 31,
-        "colocacao_area": 51
+        "onu": true
     },
     {
         "nome": "Estônia",
@@ -1554,11 +1270,7 @@
         "ano_independencia_fundacao": "1918",
         "codigo_iso": "ee",
         "arquivo_bandeira": "ee.png",
-        "onu": true,
-        "populacao": 1370286,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 140,
-        "colocacao_area": 129
+        "onu": true
     },
     {
         "nome": "Etiópia",
@@ -1577,11 +1289,7 @@
         "ano_independencia_fundacao": "1995",
         "codigo_iso": "et",
         "arquivo_bandeira": "et.png",
-        "onu": true,
-        "populacao": 128691692,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 10,
-        "colocacao_area": 26
+        "onu": true
     },
     {
         "nome": "Finlândia",
@@ -1599,11 +1307,7 @@
         "ano_independencia_fundacao": "1917",
         "codigo_iso": "fi",
         "arquivo_bandeira": "fi.png",
-        "onu": true,
-        "populacao": 5583911,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 106,
-        "colocacao_area": 64
+        "onu": true
     },
     {
         "nome": "Fiji",
@@ -1621,11 +1325,7 @@
         "ano_independencia_fundacao": "1970",
         "codigo_iso": "fj",
         "arquivo_bandeira": "fj.png",
-        "onu": true,
-        "populacao": 924145,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 146,
-        "colocacao_area": 151
+        "onu": true
     },
     {
         "nome": "Ilhas Malvinas",
@@ -1640,11 +1340,7 @@
         "ano_independencia_fundacao": "1833",
         "codigo_iso": "fk",
         "arquivo_bandeira": "fk.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "França",
@@ -1662,11 +1358,7 @@
         "ano_independencia_fundacao": "0481",
         "codigo_iso": "fr",
         "arquivo_bandeira": "fr.png",
-        "onu": true,
-        "populacao": 68287487,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 21,
-        "colocacao_area": 42
+        "onu": true
     },
     {
         "nome": "Ilhas Faroé",
@@ -1681,11 +1373,7 @@
         "ano_independencia_fundacao": "1948",
         "codigo_iso": "fo",
         "arquivo_bandeira": "fo.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Micronésia",
@@ -1703,11 +1391,7 @@
         "ano_independencia_fundacao": "1986",
         "codigo_iso": "fm",
         "arquivo_bandeira": "fm.png",
-        "onu": true,
-        "populacao": 112630,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 167,
-        "colocacao_area": 176
+        "onu": true
     },
     {
         "nome": "Gabão",
@@ -1726,11 +1410,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "ga",
         "arquivo_bandeira": "ga.png",
-        "onu": true,
-        "populacao": 2484789,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 130,
-        "colocacao_area": 76
+        "onu": true
     },
     {
         "nome": "Reino Unido",
@@ -1748,11 +1428,7 @@
         "ano_independencia_fundacao": "1801",
         "codigo_iso": "gb",
         "arquivo_bandeira": "gb.png",
-        "onu": true,
-        "populacao": 68350000,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 20,
-        "colocacao_area": 78
+        "onu": true
     },
     {
         "nome": "Geórgia",
@@ -1770,11 +1446,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "ge",
         "arquivo_bandeira": "ge.png",
-        "onu": true,
-        "populacao": 3715483,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 119,
-        "colocacao_area": 119
+        "onu": true
     },
     {
         "nome": "Guernsey",
@@ -1789,11 +1461,7 @@
         "ano_independencia_fundacao": "1204",
         "codigo_iso": "gg",
         "arquivo_bandeira": "gg.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Gana",
@@ -1812,11 +1480,7 @@
         "ano_independencia_fundacao": "1957",
         "codigo_iso": "gh",
         "arquivo_bandeira": "gh.png",
-        "onu": true,
-        "populacao": 33787914,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 42,
-        "colocacao_area": 80
+        "onu": true
     },
     {
         "nome": "Gibraltar",
@@ -1831,11 +1495,7 @@
         "ano_independencia_fundacao": "1704",
         "codigo_iso": "gi",
         "arquivo_bandeira": "gi.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Guiné",
@@ -1854,11 +1514,7 @@
         "ano_independencia_fundacao": "1958",
         "codigo_iso": "gn",
         "arquivo_bandeira": "gn.png",
-        "onu": true,
-        "populacao": 14405468,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 69,
-        "colocacao_area": 77
+        "onu": true
     },
     {
         "nome": "Guadalupe",
@@ -1873,11 +1529,7 @@
         "ano_independencia_fundacao": "1946",
         "codigo_iso": "gp",
         "arquivo_bandeira": "gp.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Gâmbia",
@@ -1896,11 +1548,7 @@
         "ano_independencia_fundacao": "1965",
         "codigo_iso": "gm",
         "arquivo_bandeira": "gm.png",
-        "onu": true,
-        "populacao": 2697845,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 128,
-        "colocacao_area": 159
+        "onu": true
     },
     {
         "nome": "Guiné-Bissau",
@@ -1919,11 +1567,7 @@
         "ano_independencia_fundacao": "1974",
         "codigo_iso": "gw",
         "arquivo_bandeira": "gw.png",
-        "onu": true,
-        "populacao": 2153339,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 134,
-        "colocacao_area": 134
+        "onu": true
     },
     {
         "nome": "Guiné Equatorial",
@@ -1942,11 +1586,7 @@
         "ano_independencia_fundacao": "1968",
         "codigo_iso": "gq",
         "arquivo_bandeira": "gq.png",
-        "onu": true,
-        "populacao": 1847549,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 137,
-        "colocacao_area": 141
+        "onu": true
     },
     {
         "nome": "Grécia",
@@ -1964,11 +1604,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "gr",
         "arquivo_bandeira": "gr.png",
-        "onu": true,
-        "populacao": 10405588,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 85,
-        "colocacao_area": 95
+        "onu": true
     },
     {
         "nome": "Granada",
@@ -1987,11 +1623,7 @@
         "ano_independencia_fundacao": "1974",
         "codigo_iso": "gd",
         "arquivo_bandeira": "gd.png",
-        "onu": true,
-        "populacao": 117081,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 166,
-        "colocacao_area": 184
+        "onu": true
     },
     {
         "nome": "Gronelândia",
@@ -2006,11 +1638,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "gl",
         "arquivo_bandeira": "gl.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Guatemala",
@@ -2029,11 +1657,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "gt",
         "arquivo_bandeira": "gt.png",
-        "onu": true,
-        "populacao": 18124838,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 63,
-        "colocacao_area": 105
+        "onu": true
     },
     {
         "nome": "Guiana Francesa",
@@ -2048,11 +1672,7 @@
         "ano_independencia_fundacao": "1946",
         "codigo_iso": "gf",
         "arquivo_bandeira": "gf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Guam",
@@ -2067,11 +1687,7 @@
         "ano_independencia_fundacao": "1898",
         "codigo_iso": "gu",
         "arquivo_bandeira": "gu.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Guiana",
@@ -2090,11 +1706,7 @@
         "ano_independencia_fundacao": "1966",
         "codigo_iso": "gy",
         "arquivo_bandeira": "gy.png",
-        "onu": true,
-        "populacao": 826353,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 148,
-        "colocacao_area": 83
+        "onu": true
     },
     {
         "nome": "Hong Kong",
@@ -2109,11 +1721,7 @@
         "ano_independencia_fundacao": "1997",
         "codigo_iso": "hk",
         "arquivo_bandeira": "hk.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilha Heard e Ilhas McDonald",
@@ -2128,11 +1736,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "hm",
         "arquivo_bandeira": "hm.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Honduras",
@@ -2151,11 +1755,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "hn",
         "arquivo_bandeira": "hn.png",
-        "onu": true,
-        "populacao": 10644851,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 81,
-        "colocacao_area": 101
+        "onu": true
     },
     {
         "nome": "Croácia",
@@ -2173,11 +1773,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "hr",
         "arquivo_bandeira": "hr.png",
-        "onu": true,
-        "populacao": 3859686,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 118,
-        "colocacao_area": 124
+        "onu": true
     },
     {
         "nome": "Haiti",
@@ -2196,11 +1792,7 @@
         "ano_independencia_fundacao": "1804",
         "codigo_iso": "ht",
         "arquivo_bandeira": "ht.png",
-        "onu": true,
-        "populacao": 11637398,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 75,
-        "colocacao_area": 143
+        "onu": true
     },
     {
         "nome": "Hungria",
@@ -2218,11 +1810,7 @@
         "ano_independencia_fundacao": "1000",
         "codigo_iso": "hu",
         "arquivo_bandeira": "hu.png",
-        "onu": true,
-        "populacao": 9592186,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 89,
-        "colocacao_area": 108
+        "onu": true
     },
     {
         "nome": "Indonésia",
@@ -2240,11 +1828,7 @@
         "ano_independencia_fundacao": "1945",
         "codigo_iso": "id",
         "arquivo_bandeira": "id.png",
-        "onu": true,
-        "populacao": 281190067,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 4,
-        "colocacao_area": 14
+        "onu": true
     },
     {
         "nome": "Ilha de Man",
@@ -2259,11 +1843,7 @@
         "ano_independencia_fundacao": "1765",
         "codigo_iso": "im",
         "arquivo_bandeira": "im.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Índia",
@@ -2281,11 +1861,7 @@
         "ano_independencia_fundacao": "1947",
         "codigo_iso": "in",
         "arquivo_bandeira": "in.png",
-        "onu": true,
-        "populacao": 1438069596,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 1,
-        "colocacao_area": 7
+        "onu": true
     },
     {
         "nome": "Território Britânico do Oceano Índico",
@@ -2300,11 +1876,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "io",
         "arquivo_bandeira": "io.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Irlanda",
@@ -2322,11 +1894,7 @@
         "ano_independencia_fundacao": "1937",
         "codigo_iso": "ie",
         "arquivo_bandeira": "ie.png",
-        "onu": true,
-        "populacao": 5307600,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 110,
-        "colocacao_area": 118
+        "onu": true
     },
     {
         "nome": "Irã",
@@ -2344,11 +1912,7 @@
         "ano_independencia_fundacao": "1979",
         "codigo_iso": "ir",
         "arquivo_bandeira": "ir.png",
-        "onu": true,
-        "populacao": 90608707,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 16,
-        "colocacao_area": 17
+        "onu": true
     },
     {
         "nome": "Iraque",
@@ -2366,11 +1930,7 @@
         "ano_independencia_fundacao": "1932",
         "codigo_iso": "iq",
         "arquivo_bandeira": "iq.png",
-        "onu": true,
-        "populacao": 45074049,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 32,
-        "colocacao_area": 58
+        "onu": true
     },
     {
         "nome": "Islândia",
@@ -2388,11 +1948,7 @@
         "ano_independencia_fundacao": "1944",
         "codigo_iso": "is",
         "arquivo_bandeira": "is.png",
-        "onu": true,
-        "populacao": 393349,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 159,
-        "colocacao_area": 106
+        "onu": true
     },
     {
         "nome": "Israel",
@@ -2410,11 +1966,7 @@
         "ano_independencia_fundacao": "1948",
         "codigo_iso": "il",
         "arquivo_bandeira": "il.png",
-        "onu": true,
-        "populacao": 9756600,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 88,
-        "colocacao_area": 149
+        "onu": true
     },
     {
         "nome": "Itália",
@@ -2432,11 +1984,7 @@
         "ano_independencia_fundacao": "0476",
         "codigo_iso": "it",
         "arquivo_bandeira": "it.png",
-        "onu": true,
-        "populacao": 58993475,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 24,
-        "colocacao_area": 71
+        "onu": true
     },
     {
         "nome": "Jamaica",
@@ -2455,11 +2003,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "jm",
         "arquivo_bandeira": "jm.png",
-        "onu": true,
-        "populacao": 2839786,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 126,
-        "colocacao_area": 160
+        "onu": true
     },
     {
         "nome": "Jersey",
@@ -2474,11 +2018,7 @@
         "ano_independencia_fundacao": "1651",
         "codigo_iso": "je",
         "arquivo_bandeira": "je.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Jordânia",
@@ -2496,11 +2036,7 @@
         "ano_independencia_fundacao": "1946",
         "codigo_iso": "jo",
         "arquivo_bandeira": "jo.png",
-        "onu": true,
-        "populacao": 11439213,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 77,
-        "colocacao_area": 110
+        "onu": true
     },
     {
         "nome": "Japão",
@@ -2518,11 +2054,7 @@
         "ano_independencia_fundacao": "1947",
         "codigo_iso": "jp",
         "arquivo_bandeira": "jp.png",
-        "onu": true,
-        "populacao": 124516650,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 11,
-        "colocacao_area": 61
+        "onu": true
     },
     {
         "nome": "Cazaquistão",
@@ -2540,11 +2072,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "kz",
         "arquivo_bandeira": "kz.png",
-        "onu": true,
-        "populacao": 20330104,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 58,
-        "colocacao_area": 9
+        "onu": true
     },
     {
         "nome": "Quênia",
@@ -2563,11 +2091,7 @@
         "ano_independencia_fundacao": "1963",
         "codigo_iso": "ke",
         "arquivo_bandeira": "ke.png",
-        "onu": true,
-        "populacao": 55339003,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 25,
-        "colocacao_area": 48
+        "onu": true
     },
     {
         "nome": "Quirguistão",
@@ -2585,11 +2109,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "kg",
         "arquivo_bandeira": "kg.png",
-        "onu": true,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": 85
+        "onu": true
     },
     {
         "nome": "Camboja",
@@ -2607,11 +2127,7 @@
         "ano_independencia_fundacao": "1953",
         "codigo_iso": "kh",
         "arquivo_bandeira": "kh.png",
-        "onu": true,
-        "populacao": 17423880,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 67,
-        "colocacao_area": 88
+        "onu": true
     },
     {
         "nome": "Kiribati",
@@ -2629,11 +2145,7 @@
         "ano_independencia_fundacao": "1979",
         "codigo_iso": "ki",
         "arquivo_bandeira": "ki.png",
-        "onu": true,
-        "populacao": 132530,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 164,
-        "colocacao_area": 171
+        "onu": true
     },
     {
         "nome": "São Cristóvão e Nevis",
@@ -2652,11 +2164,7 @@
         "ano_independencia_fundacao": "1967",
         "codigo_iso": "kn",
         "arquivo_bandeira": "kn.png",
-        "onu": true,
-        "populacao": 46758,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 171,
-        "colocacao_area": 187
+        "onu": true
     },
     {
         "nome": "República da Coreia",
@@ -2674,11 +2182,7 @@
         "ano_independencia_fundacao": "1948",
         "codigo_iso": "kr",
         "arquivo_bandeira": "kr.png",
-        "onu": true,
-        "populacao": 51712619,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 28,
-        "colocacao_area": 107
+        "onu": true
     },
     {
         "nome": "Kosovo",
@@ -2693,11 +2197,7 @@
         "ano_independencia_fundacao": "2008",
         "codigo_iso": "xk",
         "arquivo_bandeira": "xk.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Kuwait",
@@ -2715,11 +2215,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "kw",
         "arquivo_bandeira": "kw.png",
-        "onu": true,
-        "populacao": 4853420,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 116,
-        "colocacao_area": 152
+        "onu": true
     },
     {
         "nome": "Laos",
@@ -2737,11 +2233,7 @@
         "ano_independencia_fundacao": "1949",
         "codigo_iso": "la",
         "arquivo_bandeira": "la.png",
-        "onu": true,
-        "populacao": 7664993,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 94,
-        "colocacao_area": 82
+        "onu": true
     },
     {
         "nome": "Líbano",
@@ -2759,11 +2251,7 @@
         "ano_independencia_fundacao": "1943",
         "codigo_iso": "lb",
         "arquivo_bandeira": "lb.png",
-        "onu": true,
-        "populacao": 5773493,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 105,
-        "colocacao_area": 161
+        "onu": true
     },
     {
         "nome": "Libéria",
@@ -2782,11 +2270,7 @@
         "ano_independencia_fundacao": "1822",
         "codigo_iso": "lr",
         "arquivo_bandeira": "lr.png",
-        "onu": true,
-        "populacao": 5493031,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 108,
-        "colocacao_area": 102
+        "onu": true
     },
     {
         "nome": "Líbia",
@@ -2804,11 +2288,7 @@
         "ano_independencia_fundacao": "1551",
         "codigo_iso": "ly",
         "arquivo_bandeira": "ly.png",
-        "onu": true,
-        "populacao": 7305659,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 96,
-        "colocacao_area": 16
+        "onu": true
     },
     {
         "nome": "Santa Lúcia",
@@ -2827,11 +2307,7 @@
         "ano_independencia_fundacao": "1967",
         "codigo_iso": "lc",
         "arquivo_bandeira": "lc.png",
-        "onu": true,
-        "populacao": 179285,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 163,
-        "colocacao_area": 177
+        "onu": true
     },
     {
         "nome": "Liechtenstein",
@@ -2849,11 +2325,7 @@
         "ano_independencia_fundacao": "1806",
         "codigo_iso": "li",
         "arquivo_bandeira": "li.png",
-        "onu": true,
-        "populacao": 39850,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 172,
-        "colocacao_area": 189
+        "onu": true
     },
     {
         "nome": "Sri Lanka",
@@ -2871,11 +2343,7 @@
         "ano_independencia_fundacao": "1972",
         "codigo_iso": "lk",
         "arquivo_bandeira": "lk.png",
-        "onu": true,
-        "populacao": 22037000,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 55,
-        "colocacao_area": 120
+        "onu": true
     },
     {
         "nome": "Lesoto",
@@ -2894,11 +2362,7 @@
         "ano_independencia_fundacao": "1966",
         "codigo_iso": "ls",
         "arquivo_bandeira": "ls.png",
-        "onu": true,
-        "populacao": 2311472,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 133,
-        "colocacao_area": 137
+        "onu": true
     },
     {
         "nome": "Lituânia",
@@ -2916,11 +2380,7 @@
         "ano_independencia_fundacao": "1990",
         "codigo_iso": "lt",
         "arquivo_bandeira": "lt.png",
-        "onu": true,
-        "populacao": 2871585,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 125,
-        "colocacao_area": 121
+        "onu": true
     },
     {
         "nome": "Luxemburgo",
@@ -2938,11 +2398,7 @@
         "ano_independencia_fundacao": "1815",
         "codigo_iso": "lu",
         "arquivo_bandeira": "lu.png",
-        "onu": true,
-        "populacao": 666430,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 151,
-        "colocacao_area": 167
+        "onu": true
     },
     {
         "nome": "Letônia",
@@ -2960,11 +2416,7 @@
         "ano_independencia_fundacao": "1918",
         "codigo_iso": "lv",
         "arquivo_bandeira": "lv.png",
-        "onu": true,
-        "populacao": 1877445,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 136,
-        "colocacao_area": 122
+        "onu": true
     },
     {
         "nome": "Macau",
@@ -2979,11 +2431,7 @@
         "ano_independencia_fundacao": "1557",
         "codigo_iso": "mo",
         "arquivo_bandeira": "mo.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "São Martinho",
@@ -2998,11 +2446,7 @@
         "ano_independencia_fundacao": "2007",
         "codigo_iso": "mf",
         "arquivo_bandeira": "mf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Marrocos",
@@ -3020,11 +2464,7 @@
         "ano_independencia_fundacao": "0789",
         "codigo_iso": "ma",
         "arquivo_bandeira": "ma.png",
-        "onu": true,
-        "populacao": 37712505,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 37,
-        "colocacao_area": 57
+        "onu": true
     },
     {
         "nome": "Mônaco",
@@ -3042,11 +2482,7 @@
         "ano_independencia_fundacao": "1297",
         "codigo_iso": "mc",
         "arquivo_bandeira": "mc.png",
-        "onu": true,
-        "populacao": 38956,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 173,
-        "colocacao_area": 193
+        "onu": true
     },
     {
         "nome": "Moldávia",
@@ -3064,11 +2500,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "md",
         "arquivo_bandeira": "md.png",
-        "onu": true,
-        "populacao": 2457783,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 132,
-        "colocacao_area": 135
+        "onu": true
     },
     {
         "nome": "Madagascar",
@@ -3087,11 +2519,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "mg",
         "arquivo_bandeira": "mg.png",
-        "onu": true,
-        "populacao": 31195932,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 45,
-        "colocacao_area": 46
+        "onu": true
     },
     {
         "nome": "Maldivas",
@@ -3109,11 +2537,7 @@
         "ano_independencia_fundacao": "1965",
         "codigo_iso": "mv",
         "arquivo_bandeira": "mv.png",
-        "onu": true,
-        "populacao": 525994,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 155,
-        "colocacao_area": 186
+        "onu": true
     },
     {
         "nome": "México",
@@ -3132,11 +2556,7 @@
         "ano_independencia_fundacao": "1810",
         "codigo_iso": "mx",
         "arquivo_bandeira": "mx.png",
-        "onu": true,
-        "populacao": 129739759,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 9,
-        "colocacao_area": 13
+        "onu": true
     },
     {
         "nome": "Ilhas Marshall",
@@ -3154,11 +2574,7 @@
         "ano_independencia_fundacao": "1986",
         "codigo_iso": "mh",
         "arquivo_bandeira": "mh.png",
-        "onu": true,
-        "populacao": 38827,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 174,
-        "colocacao_area": 188
+        "onu": true
     },
     {
         "nome": "Macedônia do Norte",
@@ -3176,11 +2592,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "mk",
         "arquivo_bandeira": "mk.png",
-        "onu": true,
-        "populacao": 1827816,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 138,
-        "colocacao_area": 145
+        "onu": true
     },
     {
         "nome": "Mali",
@@ -3199,11 +2611,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "ml",
         "arquivo_bandeira": "ml.png",
-        "onu": true,
-        "populacao": 23769127,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 52,
-        "colocacao_area": 23
+        "onu": true
     },
     {
         "nome": "Malta",
@@ -3221,11 +2629,7 @@
         "ano_independencia_fundacao": "1964",
         "codigo_iso": "mt",
         "arquivo_bandeira": "mt.png",
-        "onu": true,
-        "populacao": 552747,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 154,
-        "colocacao_area": 185
+        "onu": true
     },
     {
         "nome": "Mianmar",
@@ -3243,11 +2647,7 @@
         "ano_independencia_fundacao": "1948",
         "codigo_iso": "mm",
         "arquivo_bandeira": "mm.png",
-        "onu": true,
-        "populacao": 54133798,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 26,
-        "colocacao_area": 39
+        "onu": true
     },
     {
         "nome": "Montenegro",
@@ -3265,11 +2665,7 @@
         "ano_independencia_fundacao": "2006",
         "codigo_iso": "me",
         "arquivo_bandeira": "me.png",
-        "onu": true,
-        "populacao": 616177,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 153,
-        "colocacao_area": 156
+        "onu": true
     },
     {
         "nome": "Mongólia",
@@ -3287,11 +2683,7 @@
         "ano_independencia_fundacao": "1992",
         "codigo_iso": "mn",
         "arquivo_bandeira": "mn.png",
-        "onu": true,
-        "populacao": 3481145,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 120,
-        "colocacao_area": 18
+        "onu": true
     },
     {
         "nome": "Marianas Setentrionais",
@@ -3306,11 +2698,7 @@
         "ano_independencia_fundacao": "1898",
         "codigo_iso": "mp",
         "arquivo_bandeira": "mp.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Moçambique",
@@ -3329,11 +2717,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "mz",
         "arquivo_bandeira": "mz.png",
-        "onu": true,
-        "populacao": 33635160,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 43,
-        "colocacao_area": 34
+        "onu": true
     },
     {
         "nome": "Mauritânia",
@@ -3352,11 +2736,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "mr",
         "arquivo_bandeira": "mr.png",
-        "onu": true,
-        "populacao": 5022441,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 115,
-        "colocacao_area": 28
+        "onu": true
     },
     {
         "nome": "Montserrat",
@@ -3371,11 +2751,7 @@
         "ano_independencia_fundacao": "1632",
         "codigo_iso": "ms",
         "arquivo_bandeira": "ms.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Martinica",
@@ -3390,11 +2766,7 @@
         "ano_independencia_fundacao": "1946",
         "codigo_iso": "mq",
         "arquivo_bandeira": "mq.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Maurício",
@@ -3413,11 +2785,7 @@
         "ano_independencia_fundacao": "1968",
         "codigo_iso": "mu",
         "arquivo_bandeira": "mu.png",
-        "onu": true,
-        "populacao": 1261041,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 143,
-        "colocacao_area": 169
+        "onu": true
     },
     {
         "nome": "Malauí",
@@ -3436,11 +2804,7 @@
         "ano_independencia_fundacao": "1964",
         "codigo_iso": "mw",
         "arquivo_bandeira": "mw.png",
-        "onu": true,
-        "populacao": 21104482,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 56,
-        "colocacao_area": 98
+        "onu": true
     },
     {
         "nome": "Malásia",
@@ -3458,11 +2822,7 @@
         "ano_independencia_fundacao": "1963",
         "codigo_iso": "my",
         "arquivo_bandeira": "my.png",
-        "onu": true,
-        "populacao": 35126298,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 40,
-        "colocacao_area": 66
+        "onu": true
     },
     {
         "nome": "Mayotte",
@@ -3477,11 +2837,7 @@
         "ano_independencia_fundacao": "1974",
         "codigo_iso": "yt",
         "arquivo_bandeira": "yt.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Namíbia",
@@ -3500,11 +2856,7 @@
         "ano_independencia_fundacao": "1990",
         "codigo_iso": "na",
         "arquivo_bandeira": "na.png",
-        "onu": true,
-        "populacao": 2963095,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 124,
-        "colocacao_area": 33
+        "onu": true
     },
     {
         "nome": "Nova Caledónia",
@@ -3519,11 +2871,7 @@
         "ano_independencia_fundacao": "1853",
         "codigo_iso": "nc",
         "arquivo_bandeira": "nc.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Niger",
@@ -3542,11 +2890,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "ne",
         "arquivo_bandeira": "ne.png",
-        "onu": true,
-        "populacao": 26159867,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 51,
-        "colocacao_area": 21
+        "onu": true
     },
     {
         "nome": "Ilha Norfolk",
@@ -3561,11 +2905,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "nf",
         "arquivo_bandeira": "nf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Nigéria",
@@ -3584,11 +2924,7 @@
         "ano_independencia_fundacao": "1963",
         "codigo_iso": "ng",
         "arquivo_bandeira": "ng.png",
-        "onu": true,
-        "populacao": 227882945,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 6,
-        "colocacao_area": 31
+        "onu": true
     },
     {
         "nome": "Nicarágua",
@@ -3607,11 +2943,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "ni",
         "arquivo_bandeira": "ni.png",
-        "onu": true,
-        "populacao": 6823613,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 98,
-        "colocacao_area": 96
+        "onu": true
     },
     {
         "nome": "Niue",
@@ -3626,11 +2958,7 @@
         "ano_independencia_fundacao": "1974",
         "codigo_iso": "nu",
         "arquivo_bandeira": "nu.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Países Baixos",
@@ -3648,11 +2976,7 @@
         "ano_independencia_fundacao": "1815",
         "codigo_iso": "nl",
         "arquivo_bandeira": "nl.png",
-        "onu": true,
-        "populacao": 17877117,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 66,
-        "colocacao_area": 131
+        "onu": true
     },
     {
         "nome": "Noruega",
@@ -3670,11 +2994,7 @@
         "ano_independencia_fundacao": "0900",
         "codigo_iso": "no",
         "arquivo_bandeira": "no.png",
-        "onu": true,
-        "populacao": 5519594,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 107,
-        "colocacao_area": 67
+        "onu": true
     },
     {
         "nome": "Nepal",
@@ -3692,11 +3012,7 @@
         "ano_independencia_fundacao": "2008",
         "codigo_iso": "np",
         "arquivo_bandeira": "np.png",
-        "onu": true,
-        "populacao": 29694614,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 47,
-        "colocacao_area": 93
+        "onu": true
     },
     {
         "nome": "Nauru",
@@ -3714,11 +3030,7 @@
         "ano_independencia_fundacao": "1968",
         "codigo_iso": "nr",
         "arquivo_bandeira": "nr.png",
-        "onu": true,
-        "populacao": 11875,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 177,
-        "colocacao_area": 192
+        "onu": true
     },
     {
         "nome": "Nova Zelândia",
@@ -3736,11 +3048,7 @@
         "ano_independencia_fundacao": "1841",
         "codigo_iso": "nz",
         "arquivo_bandeira": "nz.png",
-        "onu": true,
-        "populacao": 5223100,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 111,
-        "colocacao_area": 75
+        "onu": true
     },
     {
         "nome": "Omã",
@@ -3758,11 +3066,7 @@
         "ano_independencia_fundacao": "1970",
         "codigo_iso": "om",
         "arquivo_bandeira": "om.png",
-        "onu": true,
-        "populacao": 5049269,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 114,
-        "colocacao_area": 70
+        "onu": true
     },
     {
         "nome": "Paquistão",
@@ -3780,11 +3084,7 @@
         "ano_independencia_fundacao": "1947",
         "codigo_iso": "pk",
         "arquivo_bandeira": "pk.png",
-        "onu": true,
-        "populacao": 247504495,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 5,
-        "colocacao_area": 35
+        "onu": true
     },
     {
         "nome": "Panamá",
@@ -3803,11 +3103,7 @@
         "ano_independencia_fundacao": "1903",
         "codigo_iso": "pa",
         "arquivo_bandeira": "pa.png",
-        "onu": true,
-        "populacao": 4458759,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 117,
-        "colocacao_area": 116
+        "onu": true
     },
     {
         "nome": "Ilhas Pitcairn",
@@ -3822,11 +3118,7 @@
         "ano_independencia_fundacao": "1838",
         "codigo_iso": "pn",
         "arquivo_bandeira": "pn.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Peru",
@@ -3845,11 +3137,7 @@
         "ano_independencia_fundacao": "1821",
         "codigo_iso": "pe",
         "arquivo_bandeira": "pe.png",
-        "onu": true,
-        "populacao": 33845617,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 41,
-        "colocacao_area": 19
+        "onu": true
     },
     {
         "nome": "Filipinas",
@@ -3867,11 +3155,7 @@
         "ano_independencia_fundacao": "1565",
         "codigo_iso": "ph",
         "arquivo_bandeira": "ph.png",
-        "onu": true,
-        "populacao": 114891199,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 12,
-        "colocacao_area": 72
+        "onu": true
     },
     {
         "nome": "Palau",
@@ -3889,11 +3173,7 @@
         "ano_independencia_fundacao": "1994",
         "codigo_iso": "pw",
         "arquivo_bandeira": "pw.png",
-        "onu": true,
-        "populacao": 17727,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 176,
-        "colocacao_area": 179
+        "onu": true
     },
     {
         "nome": "Papua Nova Guiné",
@@ -3911,11 +3191,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "pg",
         "arquivo_bandeira": "pg.png",
-        "onu": true,
-        "populacao": 10389635,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 87,
-        "colocacao_area": 54
+        "onu": true
     },
     {
         "nome": "Polônia",
@@ -3933,11 +3209,7 @@
         "ano_independencia_fundacao": "1918",
         "codigo_iso": "pl",
         "arquivo_bandeira": "pl.png",
-        "onu": true,
-        "populacao": 36687353,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 38,
-        "colocacao_area": 69
+        "onu": true
     },
     {
         "nome": "Porto Rico",
@@ -3952,11 +3224,7 @@
         "ano_independencia_fundacao": "1898",
         "codigo_iso": "pr",
         "arquivo_bandeira": "pr.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "República Popular Democrática da Coreia",
@@ -3974,11 +3242,7 @@
         "ano_independencia_fundacao": "1948",
         "codigo_iso": "kp",
         "arquivo_bandeira": "kp.png",
-        "onu": true,
-        "populacao": 26418204,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 50,
-        "colocacao_area": 97
+        "onu": true
     },
     {
         "nome": "Portugal",
@@ -3996,11 +3260,7 @@
         "ano_independencia_fundacao": "1128",
         "codigo_iso": "pt",
         "arquivo_bandeira": "pt.png",
-        "onu": true,
-        "populacao": 10578174,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 82,
-        "colocacao_area": 109
+        "onu": true
     },
     {
         "nome": "Paraguai",
@@ -4019,11 +3279,7 @@
         "ano_independencia_fundacao": "1811",
         "codigo_iso": "py",
         "arquivo_bandeira": "py.png",
-        "onu": true,
-        "populacao": 6844146,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 97,
-        "colocacao_area": 59
+        "onu": true
     },
     {
         "nome": "Palestina",
@@ -4038,11 +3294,7 @@
         "ano_independencia_fundacao": "1988",
         "codigo_iso": "ps",
         "arquivo_bandeira": "ps.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Polinésia Francesa",
@@ -4057,11 +3309,7 @@
         "ano_independencia_fundacao": "1842",
         "codigo_iso": "pf",
         "arquivo_bandeira": "pf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Catar",
@@ -4079,11 +3327,7 @@
         "ano_independencia_fundacao": "1870",
         "codigo_iso": "qa",
         "arquivo_bandeira": "qa.png",
-        "onu": true,
-        "populacao": 2656032,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 129,
-        "colocacao_area": 158
+        "onu": true
     },
     {
         "nome": "Reunião",
@@ -4098,11 +3342,7 @@
         "ano_independencia_fundacao": "1946",
         "codigo_iso": "re",
         "arquivo_bandeira": "re.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Romênia",
@@ -4120,11 +3360,7 @@
         "ano_independencia_fundacao": "1859",
         "codigo_iso": "ro",
         "arquivo_bandeira": "ro.png",
-        "onu": true,
-        "populacao": 19059479,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 61,
-        "colocacao_area": 81
+        "onu": true
     },
     {
         "nome": "Rússia (Federação Russa)",
@@ -4142,11 +3378,7 @@
         "ano_independencia_fundacao": "1263",
         "codigo_iso": "ru",
         "arquivo_bandeira": "ru.png",
-        "onu": true,
-        "populacao": 143826130,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 8,
-        "colocacao_area": 1
+        "onu": true
     },
     {
         "nome": "Ruanda",
@@ -4165,11 +3397,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "rw",
         "arquivo_bandeira": "rw.png",
-        "onu": true,
-        "populacao": 13954471,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 71,
-        "colocacao_area": 144
+        "onu": true
     },
     {
         "nome": "Arábia Saudita",
@@ -4187,11 +3415,7 @@
         "ano_independencia_fundacao": "1727",
         "codigo_iso": "sa",
         "arquivo_bandeira": "sa.png",
-        "onu": true,
-        "populacao": 33264292,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 44,
-        "colocacao_area": 12
+        "onu": true
     },
     {
         "nome": "Sudão",
@@ -4209,11 +3433,7 @@
         "ano_independencia_fundacao": "1956",
         "codigo_iso": "sd",
         "arquivo_bandeira": "sd.png",
-        "onu": true,
-        "populacao": 50042791,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 29,
-        "colocacao_area": 15
+        "onu": true
     },
     {
         "nome": "Senegal",
@@ -4232,11 +3452,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "sn",
         "arquivo_bandeira": "sn.png",
-        "onu": true,
-        "populacao": 18077573,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 64,
-        "colocacao_area": 86
+        "onu": true
     },
     {
         "nome": "Singapura",
@@ -4254,11 +3470,7 @@
         "ano_independencia_fundacao": "1965",
         "codigo_iso": "sg",
         "arquivo_bandeira": "sg.png",
-        "onu": true,
-        "populacao": 5917648,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 104,
-        "colocacao_area": 175
+        "onu": true
     },
     {
         "nome": "Ilhas Geórgia do Sul e Sandwich do Sul",
@@ -4273,11 +3485,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "gs",
         "arquivo_bandeira": "gs.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilhas Svalbard e Jan Mayen",
@@ -4292,11 +3500,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "sj",
         "arquivo_bandeira": "sj.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilhas Salomão",
@@ -4314,11 +3518,7 @@
         "ano_independencia_fundacao": "1978",
         "codigo_iso": "sb",
         "arquivo_bandeira": "sb.png",
-        "onu": true,
-        "populacao": 800005,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 149,
-        "colocacao_area": 139
+        "onu": true
     },
     {
         "nome": "Serra Leoa",
@@ -4337,11 +3537,7 @@
         "ano_independencia_fundacao": "1971",
         "codigo_iso": "sl",
         "arquivo_bandeira": "sl.png",
-        "onu": true,
-        "populacao": 8460512,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 93,
-        "colocacao_area": 117
+        "onu": true
     },
     {
         "nome": "El Salvador",
@@ -4360,11 +3556,7 @@
         "ano_independencia_fundacao": "1841",
         "codigo_iso": "sv",
         "arquivo_bandeira": "sv.png",
-        "onu": true,
-        "populacao": 6309624,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 101,
-        "colocacao_area": 148
+        "onu": true
     },
     {
         "nome": "San Marino",
@@ -4382,11 +3574,7 @@
         "ano_independencia_fundacao": "0301",
         "codigo_iso": "sm",
         "arquivo_bandeira": "sm.png",
-        "onu": true,
-        "populacao": 33860,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 175,
-        "colocacao_area": 190
+        "onu": true
     },
     {
         "nome": "Somália",
@@ -4405,11 +3593,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "so",
         "arquivo_bandeira": "so.png",
-        "onu": true,
-        "populacao": 18358615,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 62,
-        "colocacao_area": 43
+        "onu": true
     },
     {
         "nome": "Saint-Pierre e Miquelon",
@@ -4424,11 +3608,7 @@
         "ano_independencia_fundacao": "1700",
         "codigo_iso": "pm",
         "arquivo_bandeira": "pm.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Sérvia",
@@ -4446,11 +3626,7 @@
         "ano_independencia_fundacao": "2006",
         "codigo_iso": "rs",
         "arquivo_bandeira": "rs.png",
-        "onu": true,
-        "populacao": 6623183,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 99,
-        "colocacao_area": 115
+        "onu": true
     },
     {
         "nome": "Sudão do Sul",
@@ -4469,11 +3645,7 @@
         "ano_independencia_fundacao": "2011",
         "codigo_iso": "ss",
         "arquivo_bandeira": "ss.png",
-        "onu": true,
-        "populacao": 11483374,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 76,
-        "colocacao_area": 41
+        "onu": true
     },
     {
         "nome": "São Tomé e Príncipe",
@@ -4492,11 +3664,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "st",
         "arquivo_bandeira": "st.png",
-        "onu": true,
-        "populacao": 230871,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 161,
-        "colocacao_area": 170
+        "onu": true
     },
     {
         "nome": "Suriname",
@@ -4515,11 +3683,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "sr",
         "arquivo_bandeira": "sr.png",
-        "onu": true,
-        "populacao": 628886,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 152,
-        "colocacao_area": 90
+        "onu": true
     },
     {
         "nome": "Eslováquia",
@@ -4537,11 +3701,7 @@
         "ano_independencia_fundacao": "1993",
         "codigo_iso": "sk",
         "arquivo_bandeira": "sk.png",
-        "onu": true,
-        "populacao": 5426740,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 109,
-        "colocacao_area": 127
+        "onu": true
     },
     {
         "nome": "Eslovênia",
@@ -4559,11 +3719,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "si",
         "arquivo_bandeira": "si.png",
-        "onu": true,
-        "populacao": 2120461,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 135,
-        "colocacao_area": 150
+        "onu": true
     },
     {
         "nome": "Suécia",
@@ -4581,11 +3737,7 @@
         "ano_independencia_fundacao": "0900",
         "codigo_iso": "se",
         "arquivo_bandeira": "se.png",
-        "onu": true,
-        "populacao": 10536632,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 83,
-        "colocacao_area": 55
+        "onu": true
     },
     {
         "nome": "Eswatini",
@@ -4604,11 +3756,7 @@
         "ano_independencia_fundacao": "1968",
         "codigo_iso": "sz",
         "arquivo_bandeira": "sz.png",
-        "onu": true,
-        "populacao": 1230506,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 144,
-        "colocacao_area": 153
+        "onu": true
     },
     {
         "nome": "São Martinho",
@@ -4623,11 +3771,7 @@
         "ano_independencia_fundacao": "2010",
         "codigo_iso": "sx",
         "arquivo_bandeira": "sx.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Seichelles",
@@ -4646,11 +3790,7 @@
         "ano_independencia_fundacao": "1976",
         "codigo_iso": "sc",
         "arquivo_bandeira": "sc.png",
-        "onu": true,
-        "populacao": 119773,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 165,
-        "colocacao_area": 180
+        "onu": true
     },
     {
         "nome": "Síria",
@@ -4668,11 +3808,7 @@
         "ano_independencia_fundacao": "1920",
         "codigo_iso": "sy",
         "arquivo_bandeira": "sy.png",
-        "onu": true,
-        "populacao": 23594623,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 53,
-        "colocacao_area": 87
+        "onu": true
     },
     {
         "nome": "Ilhas Turks e Caicos",
@@ -4687,11 +3823,7 @@
         "ano_independencia_fundacao": "1973",
         "codigo_iso": "tc",
         "arquivo_bandeira": "tc.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Chade",
@@ -4710,11 +3842,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "td",
         "arquivo_bandeira": "td.png",
-        "onu": true,
-        "populacao": 19319064,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 60,
-        "colocacao_area": 20
+        "onu": true
     },
     {
         "nome": "Togo",
@@ -4733,11 +3861,7 @@
         "ano_independencia_fundacao": "1960",
         "codigo_iso": "tg",
         "arquivo_bandeira": "tg.png",
-        "onu": true,
-        "populacao": 9304337,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 90,
-        "colocacao_area": 123
+        "onu": true
     },
     {
         "nome": "Tailândia",
@@ -4755,11 +3879,7 @@
         "ano_independencia_fundacao": "1238",
         "codigo_iso": "th",
         "arquivo_bandeira": "th.png",
-        "onu": true,
-        "populacao": 71702435,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 19,
-        "colocacao_area": 50
+        "onu": true
     },
     {
         "nome": "Tadjiquistão",
@@ -4777,11 +3897,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "tj",
         "arquivo_bandeira": "tj.png",
-        "onu": true,
-        "populacao": 10389799,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 86,
-        "colocacao_area": 94
+        "onu": true
     },
     {
         "nome": "Tokelau",
@@ -4796,11 +3912,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "tk",
         "arquivo_bandeira": "tk.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Turcomenistão",
@@ -4818,11 +3930,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "tm",
         "arquivo_bandeira": "tm.png",
-        "onu": true,
-        "populacao": 7364438,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 95,
-        "colocacao_area": 52
+        "onu": true
     },
     {
         "nome": "Timor-Leste",
@@ -4840,11 +3948,7 @@
         "ano_independencia_fundacao": "1975",
         "codigo_iso": "tl",
         "arquivo_bandeira": "tl.png",
-        "onu": true,
-        "populacao": 1384286,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 139,
-        "colocacao_area": 154
+        "onu": true
     },
     {
         "nome": "Tonga",
@@ -4862,11 +3966,7 @@
         "ano_independencia_fundacao": "1970",
         "codigo_iso": "to",
         "arquivo_bandeira": "to.png",
-        "onu": true,
-        "populacao": 104597,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 168,
-        "colocacao_area": 174
+        "onu": true
     },
     {
         "nome": "Trinidad e Tobago",
@@ -4885,11 +3985,7 @@
         "ano_independencia_fundacao": "1976",
         "codigo_iso": "tt",
         "arquivo_bandeira": "tt.png",
-        "onu": true,
-        "populacao": 1367510,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 141,
-        "colocacao_area": 164
+        "onu": true
     },
     {
         "nome": "Tunísia",
@@ -4907,11 +4003,7 @@
         "ano_independencia_fundacao": "1956",
         "codigo_iso": "tn",
         "arquivo_bandeira": "tn.png",
-        "onu": true,
-        "populacao": 12200431,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 74,
-        "colocacao_area": 91
+        "onu": true
     },
     {
         "nome": "Turquia",
@@ -4929,11 +4021,7 @@
         "ano_independencia_fundacao": "1923",
         "codigo_iso": "tr",
         "arquivo_bandeira": "tr.png",
-        "onu": true,
-        "populacao": 85325965,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 17,
-        "colocacao_area": 36
+        "onu": true
     },
     {
         "nome": "Tuvalu",
@@ -4951,11 +4039,7 @@
         "ano_independencia_fundacao": "1978",
         "codigo_iso": "tv",
         "arquivo_bandeira": "tv.png",
-        "onu": true,
-        "populacao": 9816,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 178,
-        "colocacao_area": 191
+        "onu": true
     },
     {
         "nome": "Ilha Formosa",
@@ -4970,11 +4054,7 @@
         "ano_independencia_fundacao": "1912",
         "codigo_iso": "tw",
         "arquivo_bandeira": "tw.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Tanzânia",
@@ -4993,11 +4073,7 @@
         "ano_independencia_fundacao": "1964",
         "codigo_iso": "tz",
         "arquivo_bandeira": "tz.png",
-        "onu": true,
-        "populacao": 66617606,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 22,
-        "colocacao_area": 30
+        "onu": true
     },
     {
         "nome": "Uganda",
@@ -5016,11 +4092,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "ug",
         "arquivo_bandeira": "ug.png",
-        "onu": true,
-        "populacao": 48656601,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 30,
-        "colocacao_area": 79
+        "onu": true
     },
     {
         "nome": "Ucrânia",
@@ -5038,11 +4110,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "ua",
         "arquivo_bandeira": "ua.png",
-        "onu": true,
-        "populacao": 37732836,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 36,
-        "colocacao_area": 45
+        "onu": true
     },
     {
         "nome": "Ilhas Menores Distantes dos Estados Unidos",
@@ -5057,11 +4125,7 @@
         "ano_independencia_fundacao": "1986",
         "codigo_iso": "um",
         "arquivo_bandeira": "um.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Uruguai",
@@ -5080,11 +4144,7 @@
         "ano_independencia_fundacao": "1825",
         "codigo_iso": "uy",
         "arquivo_bandeira": "uy.png",
-        "onu": true,
-        "populacao": 3388081,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 122,
-        "colocacao_area": 89
+        "onu": true
     },
     {
         "nome": "Estados Unidos da América",
@@ -5102,11 +4162,7 @@
         "ano_independencia_fundacao": "1784",
         "codigo_iso": "us",
         "arquivo_bandeira": "us.png",
-        "onu": true,
-        "populacao": 334914895,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 3,
-        "colocacao_area": 3
+        "onu": true
     },
     {
         "nome": "Uzbequistão",
@@ -5124,11 +4180,7 @@
         "ano_independencia_fundacao": "1991",
         "codigo_iso": "uz",
         "arquivo_bandeira": "uz.png",
-        "onu": true,
-        "populacao": 35652307,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 39,
-        "colocacao_area": 56
+        "onu": true
     },
     {
         "nome": "Cidade do Vaticano",
@@ -5143,11 +4195,7 @@
         "ano_independencia_fundacao": "1929",
         "codigo_iso": "va",
         "arquivo_bandeira": "va.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "São Vicente e Granadinas",
@@ -5166,11 +4214,7 @@
         "ano_independencia_fundacao": "1979",
         "codigo_iso": "vc",
         "arquivo_bandeira": "vc.png",
-        "onu": true,
-        "populacao": 101323,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 169,
-        "colocacao_area": 183
+        "onu": true
     },
     {
         "nome": "Venezuela",
@@ -5189,11 +4233,7 @@
         "ano_independencia_fundacao": "1811",
         "codigo_iso": "ve",
         "arquivo_bandeira": "ve.png",
-        "onu": true,
-        "populacao": 28300854,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 49,
-        "colocacao_area": 32
+        "onu": true
     },
     {
         "nome": "Ilhas Virgens",
@@ -5208,11 +4248,7 @@
         "ano_independencia_fundacao": "",
         "codigo_iso": "vg",
         "arquivo_bandeira": "vg.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Ilhas Virgens dos Estados Unidos",
@@ -5227,11 +4263,7 @@
         "ano_independencia_fundacao": "1917",
         "codigo_iso": "vi",
         "arquivo_bandeira": "vi.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Vietnã",
@@ -5249,11 +4281,7 @@
         "ano_independencia_fundacao": "1804",
         "codigo_iso": "vn",
         "arquivo_bandeira": "vn.png",
-        "onu": true,
-        "populacao": 100352192,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 15,
-        "colocacao_area": 65
+        "onu": true
     },
     {
         "nome": "Vanuatu",
@@ -5271,11 +4299,7 @@
         "ano_independencia_fundacao": "1980",
         "codigo_iso": "vu",
         "arquivo_bandeira": "vu.png",
-        "onu": true,
-        "populacao": 320409,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 160,
-        "colocacao_area": 157
+        "onu": true
     },
     {
         "nome": "Wallis e Futuna",
@@ -5290,11 +4314,7 @@
         "ano_independencia_fundacao": "1961",
         "codigo_iso": "wf",
         "arquivo_bandeira": "wf.png",
-        "onu": false,
-        "populacao": null,
-        "populacao_ano": null,
-        "colocacao_populacao": null,
-        "colocacao_area": null
+        "onu": false
     },
     {
         "nome": "Samoa",
@@ -5312,11 +4332,7 @@
         "ano_independencia_fundacao": "1962",
         "codigo_iso": "ws",
         "arquivo_bandeira": "ws.png",
-        "onu": true,
-        "populacao": 216663,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 162,
-        "colocacao_area": 166
+        "onu": true
     },
     {
         "nome": "Iêmen",
@@ -5334,11 +4350,7 @@
         "ano_independencia_fundacao": "1990",
         "codigo_iso": "ye",
         "arquivo_bandeira": "ye.png",
-        "onu": true,
-        "populacao": 39390799,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 35,
-        "colocacao_area": 49
+        "onu": true
     },
     {
         "nome": "África do Sul",
@@ -5357,11 +4369,7 @@
         "ano_independencia_fundacao": "1910",
         "codigo_iso": "za",
         "arquivo_bandeira": "za.png",
-        "onu": true,
-        "populacao": 63212384,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 23,
-        "colocacao_area": 24
+        "onu": true
     },
     {
         "nome": "Zâmbia",
@@ -5380,11 +4388,7 @@
         "ano_independencia_fundacao": "1964",
         "codigo_iso": "zm",
         "arquivo_bandeira": "zm.png",
-        "onu": true,
-        "populacao": 20723965,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 57,
-        "colocacao_area": 38
+        "onu": true
     },
     {
         "nome": "Zimbábue",
@@ -5403,10 +4407,6 @@
         "ano_independencia_fundacao": "1980",
         "codigo_iso": "zw",
         "arquivo_bandeira": "zw.png",
-        "onu": true,
-        "populacao": 16340822,
-        "populacao_ano": 2023,
-        "colocacao_populacao": 68,
-        "colocacao_area": 60
+        "onu": true
     }
 ]
