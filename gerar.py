@@ -46,7 +46,7 @@ ROWS = 4            # cartões por coluna na folha A4 (2x4 = 8 cartões/página)
 PAGE_MARGIN_MM = 10
 GAP_MM = 8
 
-FOOTER_WATERMARK = "@valverdeoficial"
+FOOTER_WATERMARK = ""
 
 THIS_DIR = Path(__file__).resolve().parent
 DATA_JSON_DEFAULT = THIS_DIR / "data.json"
@@ -141,6 +141,10 @@ def build_verso_html(country: dict, images_base: str) -> str:
     items = []
 
     
+
+    codigo_iso = country.get("codigo_iso")
+    if codigo_iso:
+        items.append(f'<div class="detail-item"><span class="label">Código ISO:</span> {html_escape(str(codigo_iso).upper())}</div>')
 
     idioma = country.get("idioma")
     if idioma:

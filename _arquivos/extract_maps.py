@@ -28,17 +28,22 @@ from lxml import etree
 
 BASE_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 #OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas")
-OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas_3")
+OUTPUT_DIR = os.path.join(BASE_DIR, "images", "mapas_isolados")
 
-SCRIPT_JS_URL = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/js/script.js"
-SVG_URL       = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/paises_mundo.svg"
+ARQUIVOS_DIR = os.path.join(BASE_DIR, "_arquivos")
+
+#SCRIPT_JS_URL = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/js/script.js"
+#SVG_URL       = "https://atlasescolar.ibge.gov.br/templates/atlas_2022/paises_mundo.svg"
+
+SCRIPT_JS_URL = ARQUIVOS_DIR + "/script.js"
+SVG_URL       = ARQUIVOS_DIR + "/paises_mundo.svg"
 
 PNG_W = 1200
 PNG_H =  750
 
 # Fator de zoom: quanto maior, mais perto; quanto menor, mais continente ao redor
 # 1.0 = zoom original do IBGE | 0.6 = 40% afastado | 0.4 = 60% afastado
-ZOOM_FACTOR = 3
+ZOOM_FACTOR = 5
 
 # Fallback de matrix por continente (quando o país não tem matrix própria)
 MATRIX_FALLBACK = {
@@ -69,11 +74,11 @@ SVG_NS = "http://www.w3.org/2000/svg"
 # ── coleta ────────────────────────────────────────────────────────────────────
 
 def fetch_paises() -> list:
-    """Extrai o array 'paises' do script.js do IBGE."""
-    print("  Baixando script.js...", end=" ", flush=True)
-    resp = requests.get(SCRIPT_JS_URL, timeout=30)
-    resp.encoding = "utf-8"
-    m = re.search(r"const paises\s*=\s*(\[.*?\]);", resp.text, re.DOTALL)
+    """Extrai o array 'paises' do script.js local."""
+    print(f"  Lendo {os.path.basename(SCRIPT_JS_URL)}...", end=" ", flush=True)
+    with open(SCRIPT_JS_URL, "r", encoding="utf-8") as f:
+        content = f.read()
+    m = re.search(r"const paises\s*=\s*(\[.*?\]);", content, re.DOTALL)
     if not m:
         raise RuntimeError("Array 'paises' não encontrado no script.js")
     data = json.loads(m.group(1))
@@ -82,17 +87,17 @@ def fetch_paises() -> list:
 
 
 def fetch_world_svg() -> tuple:
-    """Baixa paises_mundo.svg e retorna (etree_root, viewBox_str)."""
-    print("  Baixando paises_mundo.svg...", end=" ", flush=True)
-    resp = requests.get(SVG_URL, timeout=60)
-    resp.raise_for_status()
-    root = etree.fromstring(resp.content)
+    """Lê paises_mundo.svg local e retorna (etree_root, viewBox_str)."""
+    print(f"  Lendo {os.path.basename(SVG_URL)}...", end=" ", flush=True)
+    with open(SVG_URL, "rb") as f:
+        content = f.read()
+    root = etree.fromstring(content)
     viewbox = (
         root.get("viewBox")
         or root.get("viewbox")
         or "0 0 100000 60000"
     )
-    print(f"{len(resp.content) // 1024} KB | viewBox: {viewbox}")
+    print(f"{len(content) // 1024} KB | viewBox: {viewbox}")
     return root, viewbox
 
 
@@ -287,9 +292,78 @@ def build_svg(source_root, sigla: str, matrix: str, viewbox: str,
         new_path.set("stroke", COLOR_STROKE)
         new_path.set("stroke-width", str(stroke_w_selected if selected else stroke_w_default))
 
+    # ── pin de localização ──────────────────────────────────────────────────
+    # Adiciona um pin na posição central do país selecionado para facilitar
+    # a localização visual, especialmente em países minúsculos.
+    if center is not None:
+        setPin(center, etree, scale_x, scale_y, g)
+
     return etree.tostring(svg, xml_declaration=True, encoding="UTF-8", pretty_print=True)
 
+# ── PIN ───────────────────────────────────────────────────────────────────────
+def setPin (center, etree, scale_x, scale_y, g):
+    cx, cy = center
+    # Tamanho do pin em pixels da imagem final
+    pin_h_px = 45
+    pin_w_px = 30
+    
+    # Fator de escala para manter o tamanho do pin independente do zoom
+    avg_scale = (abs(scale_x) + abs(scale_y)) / 2.0
+    pw = (pin_w_px / 2.0) / avg_scale
+    ph = pin_h_px / avg_scale
 
+    # O pin é desenhado DENTRO do <g transform="matrix(...)">, ou seja,
+    # sofre a mesma transformação aplicada aos países. O componente
+    # vertical da matriz (scale_y / "d") é NEGATIVO para todos os
+    # continentes (ver MATRIX_FALLBACK), o que espelha o eixo Y.
+    # Sem compensar esse espelhamento, "subtrair" de cy para ir "para
+    # cima" no desenho local resulta em ir "para baixo" na imagem final
+    # — é exatamente isso que fazia o pin sair de cabeça para baixo.
+    # 's' inverte o sinal do deslocamento vertical conforme o sinal de
+    # scale_y, garantindo que o bulbo fique sempre acima da ponta no
+    # resultado final, independentemente da matrix do país/continente.
+    s = 1 if scale_y < 0 else -1
+
+    # Centro do bulbo (parte arredondada) do pin
+    # A ponta está em (cx, cy); o bulbo fica acima dela na imagem final.
+    bulb_cy = cy + s * (ph - pw)
+    r = pw
+
+    # O sweep-flag do arco (<A>) é resolvido no espaço LOCAL do path,
+    # antes do transform — ele não se adapta automaticamente quando 's'
+    # muda de sinal. Sem inverter o sweep junto com 's', o arco passa a
+    # curvar de volta na direção da ponta (em vez de se afastar dela),
+    # fazendo o path se auto-intersectar; com fill-rule "nonzero" os
+    # sentidos de preenchimento se cancelam e o bulbo "desaparece",
+    # sobrando só o cone — era essa a camada some que você viu.
+    sweep_flag = 1 if s < 0 else 0
+    
+    # Desenha o pin (map marker) com a ponta fina para baixo
+    # M: começa na ponta inferior (cx, cy)
+    # C: curva até a lateral do círculo
+    # A: faz o arco superior de 180 graus (sempre se afastando da ponta)
+    # C: curva de volta para a ponta inferior
+    pin_d = (
+        f"M {cx},{cy} "
+        f"C {cx - pw},{cy + s*ph*0.25} {cx - pw},{bulb_cy - s*r} {cx - pw},{bulb_cy} "
+        f"A {pw},{pw} 0 1 {sweep_flag} {cx + pw},{bulb_cy} "
+        f"C {cx + pw},{bulb_cy - s*r} {cx + pw},{cy + s*ph*0.25} {cx},{cy} "
+        f"Z"
+    )
+    
+    pin_el = etree.SubElement(g, "{%s}path" % SVG_NS)
+    pin_el.set("d", pin_d)
+    pin_el.set("fill", "#ff0000")
+    pin_el.set("stroke", "#ffffff")
+    # Espessura da borda proporcional ao zoom
+    pin_el.set("stroke-width", str(1.5 / avg_scale))
+    
+    # Círculo interno (no centro do bulbo)
+    dot = etree.SubElement(g, "{%s}circle" % SVG_NS)
+    dot.set("cx", str(cx))
+    dot.set("cy", str(bulb_cy))
+    dot.set("r", str(pw * 0.45))
+    dot.set("fill", "#ffffff")
 
 # ── PNG ───────────────────────────────────────────────────────────────────────
 
@@ -323,8 +397,21 @@ def svg_to_png(svg_bytes: bytes, png_path: str):
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+    # Verifica se uma sigla foi passada como argumento
+    target_sigla = sys.argv[1].upper() if len(sys.argv) > 1 else None
+
+    # Verifica se um fator de zoom foi passado como segundo argumento
+    current_zoom = float(sys.argv[2]) if len(sys.argv) > 2 else ZOOM_FACTOR
+
     print("Coletando dados do IBGE Atlas Escolar...")
     paises            = fetch_paises()
+
+    if target_sigla:
+        paises = [p for p in paises if p["sigla"].upper() == target_sigla]
+        if not paises:
+            print(f"\nERRO: País com sigla '{target_sigla}' não encontrado.")
+            sys.exit(1)
+
     svg_root, viewbox = fetch_world_svg()
 
     try:
@@ -360,7 +447,7 @@ def main():
         # ── SVG ──────────────────────────────────────────────────────────────
         try:
             svg_bytes = build_svg(svg_root, sigla, matrix, viewbox,
-                                 zoom_factor=ZOOM_FACTOR)
+                                 zoom_factor=current_zoom)
             with open(svg_path, "wb") as fh:
                 fh.write(svg_bytes)
             svg_ok += 1
